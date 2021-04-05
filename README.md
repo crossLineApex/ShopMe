@@ -28,7 +28,7 @@ Project is created with:
 * Nodejs
 * MongoDB & Mongoose
 * REST API
-* 
+
 
 ## Setup
 To run this project, install it locally using npm:
